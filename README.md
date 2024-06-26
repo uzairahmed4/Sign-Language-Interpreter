@@ -41,3 +41,10 @@ FUTURE DEVELOPMENT
 Add more signs into the dataset and increase the instances of training data by collecting more data, and train the model to recognize ASL letters as well.
 Create an interface to confirm the sign predictions made by the system before proceeding to a new sentence.
 Implementing functionality for navigating back and forth in sign predictions.
+
+## License
+This project is licensed under the [MIT License](./LICENSE.txt).
+
+## Contact
+For any questions, feedback, or collaborations, feel free to reach out:
+- Email: uzairahmedrak@gmail.com
